@@ -1,0 +1,1 @@
+make_speech_bubble(obj_fake_player, "WTF")

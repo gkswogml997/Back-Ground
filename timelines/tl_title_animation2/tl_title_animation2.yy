@@ -1,0 +1,15 @@
+{
+  "$GMTimeline":"",
+  "%Name":"tl_title_animation2",
+  "momentList":[
+    {"$GMMoment":"","%Name":"","evnt":{"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":120,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},"moment":120,"name":"","resourceType":"GMMoment","resourceVersion":"2.0",},
+    {"$GMMoment":"","%Name":"","evnt":{"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":400,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},"moment":400,"name":"","resourceType":"GMMoment","resourceVersion":"2.0",},
+  ],
+  "name":"tl_title_animation2",
+  "parent":{
+    "name":"타임라인",
+    "path":"folders/타임라인.yy",
+  },
+  "resourceType":"GMTimeline",
+  "resourceVersion":"2.0",
+}

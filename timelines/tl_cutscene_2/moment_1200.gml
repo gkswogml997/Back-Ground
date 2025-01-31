@@ -1,0 +1,1 @@
+make_speech_bubble(id, "Good luck...")

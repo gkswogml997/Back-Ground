@@ -1,0 +1,1 @@
+obj_fake_player.move(obj_fake_player.x + 80, obj_fake_player.y, 120);

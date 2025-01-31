@@ -1,0 +1,1 @@
+obj_start_string.image_alpha = 1;

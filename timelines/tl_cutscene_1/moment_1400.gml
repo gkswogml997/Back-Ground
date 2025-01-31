@@ -1,0 +1,1 @@
+obj_direct_player.move(obj_door.x,obj_door.y,100);

@@ -1,0 +1,9 @@
+if (global.stage_number < 10) {
+	sprite_index = spr_wall1;
+}else if (global.stage_number >= 10 && global.stage_number < 20){
+	sprite_index = spr_wall2;
+}else if (global.stage_number >= 20 && global.stage_number < 30){
+	sprite_index = spr_wall3;
+}else if (global.stage_number >= 30 && global.stage_number < 40){
+	sprite_index = spr_wall4;
+}
